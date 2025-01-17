@@ -1,4 +1,4 @@
-# 自動カロリー計算　ダイエットコーチみっちゃん
+# ダイエットコーチみっちゃん
 <!DOCTYPE html>
 <html lang="ja">
 <head>
@@ -33,7 +33,7 @@
     </style>
 </head>
 <body>
-    <h1>基礎代謝計算機</h1>
+    <h1>推定消費カロリー計算機</h1>
     <label for="gender">性別:</label>
     <select id="gender">
         <option value="male">男性</option>
